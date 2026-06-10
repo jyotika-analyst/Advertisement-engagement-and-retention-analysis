@@ -63,10 +63,10 @@ Post-hoc pairwise comparisons used Bonferroni adjustment.
 ## Key Insights
 
 * Augmented Reality advertisements generated the strongest immediate engagement among all formats.
-* Consumer attitude declined significantly over time overall, indicating reduced long-term advertisement retention.
+* Overall consumer attitude scores declined significantly over the four-week period.
 * AR advertisements experienced the largest decline in attitude over time despite the strongest initial performance.
-* Image advertisements retained consumer attitude most effectively after the 4-week delay period.
-* Text advertisements generated the lowest immediate engagement but showed the most stable attitude over time.
+* Image advertisements recorded the highest delayed attitude score after four weeks, indicating the strongest overall retention performance.
+* Text advertisements generated the lowest immediate and delayed attitude scores but showed the greatest stability over time, with minimal change between measurement periods.
 * Advertisement format demonstrated a large practical effect on consumer attitude (Partial η² = .394).
 
 ## Dashboard Features
