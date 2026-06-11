@@ -6,6 +6,17 @@ Built an interactive analytics dashboard in Power BI to evaluate how mobile adve
 
 [Open Dashboard](https://app.powerbi.com/view?r=eyJrIjoiODY3MGVmOTEtODVmMi00ZmU5LThjNTYtYmFkYzBkN2ZhYzcyIiwidCI6ImZjZjAyZDc5LTE4NGQtNDA4Yy05NTI4LWZjZTMzMzc1YWIzZSJ9)
 
+## Key Skills Demonstrated
+
+- Statistical Analysis (SPSS)
+- Repeated Measures ANOVA
+- Hypothesis Testing
+- Data Visualisation
+- KPI Reporting
+- Power BI Dashboard Development
+- Survey Data Analysis
+- Insight Reporting
+
 ## Business Problem
 
 As mobile advertising continues to expand, marketers need to understand which advertisement formats generate the strongest consumer engagement and whether that engagement is sustained over time.
@@ -30,7 +41,7 @@ Does mobile advertisement format significantly affect consumer attitude toward c
 * Measurement scale: 5-point Likert scale measuring advertisement attitude
 * Time points: Immediate response (after advertisement exposure) and delayed response (4 weeks later)
 * Design: Repeated measures experimental design with randomised advertisement presentation order
-* Delayed recall responses varied across advertisement formats (AR = 32 · Image = 43 · Text = 23)
+* At the four-week follow-up, respondents most frequently identified Image advertisements (n = 43), followed by AR (n = 32) and Text (n = 23), when asked which advertisement they remembered.
 
 ## Methodology
 
@@ -65,7 +76,7 @@ Post-hoc pairwise comparisons used Bonferroni adjustment.
 * Augmented Reality advertisements generated the strongest immediate engagement among all formats.
 * Overall consumer attitude scores declined significantly over the four-week period.
 * AR advertisements experienced the largest decline in attitude over time despite the strongest initial performance.
-* Image advertisements recorded the highest delayed attitude score after four weeks, indicating the strongest overall retention performance.
+* Image advertisements recorded the highest delayed attitude score after four weeks, indicating the strongest retention performance among the three formats.
 * Text advertisements generated the lowest immediate and delayed attitude scores but showed the greatest stability over time, with minimal change between measurement periods.
 * Advertisement format demonstrated a large practical effect on consumer attitude (Partial η² = .394).
 
@@ -82,8 +93,14 @@ Post-hoc pairwise comparisons used Bonferroni adjustment.
 
 * Use AR advertisements for short-term campaigns and product launches where immediate consumer engagement is critical.
 * Use Image advertisements for long-term brand-building campaigns due to stronger attitude retention over time.
-* Text ads showed the lowest initial attitude but remained the most stable over the 4-week period — virtually no change (+0.04). Text may be suitable when maintaining a steady attitude over time is the primary objective.
+* Text advertisements demonstrated the greatest stability over time ( virtually no change +0.04), although they generated the lowest attitude scores overall.
 * Combine immersive and static advertisement strategies to balance immediate engagement with long-term retention.
+
+## Limitations
+
+- Based on a sample of 98 respondents.
+- Delayed attitudes were measured only for the advertisement identified by respondents at the four-week follow-up.
+- Results relate to car advertisements and may not generalise to other product categories.
 
 ## Dashboard Preview
 
